@@ -1,0 +1,25 @@
+/* Navbar */
+.ortala{
+    text-align: center; 
+}
+.nb-li{
+    list-style-type: none;
+    margin-right:2%;
+    display: inline;
+    font-size: 20px;
+}
+.logo {
+    color: crimson;
+    font-size: 100px;
+    margin-bottom: 2%;
+}
+/* urunler - paragraf */
+p{
+    max-width: 700px;
+    text-align: center;
+    display: inline-block;
+}
+/* About-Us -  Adress*/
+.cont-article{
+    margin-top: 15%;
+}
